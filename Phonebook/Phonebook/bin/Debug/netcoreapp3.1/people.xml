@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfSpravka xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Spravka xsi:type="Person">
+    <Surname>Семенов</Surname>
+    <Adres>г. СПБ ул. Брюсовская, д. 14 </Adres>
+    <Telephone>9112249093</Telephone>
+  </Spravka>
+  <Spravka xsi:type="Person">
+    <Surname>Секиров</Surname>
+    <Adres>г. Омск ул. Ленина д. 5</Adres>
+    <Telephone>4325678</Telephone>
+  </Spravka>
+  <Spravka xsi:type="Organization">
+    <Name>МаркетПлейс</Name>
+    <AdresOrg>г. СПБ, ул. Петрова, д. 16</AdresOrg>
+    <Number>79879687</Number>
+    <Faks>33876845</Faks>
+    <Kontakt>Кокос</Kontakt>
+  </Spravka>
+  <Spravka xsi:type="Organization">
+    <Name>ПетроСтров</Name>
+    <AdresOrg>г. Москва, ул. Сталина, д. 8</AdresOrg>
+    <Number>798707</Number>
+    <Faks>4587979</Faks>
+    <Kontakt>Екатерина</Kontakt>
+  </Spravka>
+  <Spravka xsi:type="Friend">
+    <Surname>Шок</Surname>
+    <Adres>г. Самара, ул. катарсис, д.8, кв.9 </Adres>
+    <Telephone>676050</Telephone>
+    <BirthdayDate>1999-02-14T00:00:00</BirthdayDate>
+  </Spravka>
+</ArrayOfSpravka>0:00:00</BirthdayDate>
+  </Spravka>
+  <Spravka xsi:type="Friend">
+    <Surname>Козлов</Surname>
+    <Adres>г. Москва, ул. Заречная, д.2, кв.34 </Adres>
+    <Telephone>676050</Telephone>
+    <BirthdayDate>1983-03-04T00:00:00</BirthdayDate>
+  </Spravka>
+</ArrayOfSpravka>
+  </Spravka>
+</ArrayOfSpravka>
